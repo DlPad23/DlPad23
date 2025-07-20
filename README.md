@@ -1,8 +1,7 @@
 # Hello, I'm David
 <a href="https://linkedin.com/in/david-p-172823149"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-Cybersecurity analyst with 4+ years of experience in SOC operations, vulnerability management, and threat remediation—driving measurable risk reduction across enterprise and cloud environments.
+Cyber Security Analyst with 4+ years of experience identifying, analyzing, and remediating critical vulnerabilities in enterprise and cloud environments. Expertise in CVSS/CVE analysis, vulnerability scanning (Qualys, Nessus), risk management, and cross-team remediation efforts.  Adept in risk scoring, compliance alignment (HIPAA, SOC 2, DoD), executive reporting, and SOC operations including alert triage and incident response.
 
 ## Objective
 
