@@ -13,7 +13,7 @@ Aspiring to secure a full-time role as a SOC or Risk Analyst where I can leverag
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC Lab        | <a href="https://google.com">SOC Lab</a>|
-|Ethical Hacking | <a href="https://google.com">Ethical Hacking Lab</a>|
+|Ethical Hacking | <a href="https://github.com/DlPad23/Ethical-Hacking-Home-Lab)">Ethical Hacking Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -78,3 +78,4 @@ Aspiring to secure a full-time role as a SOC or Risk Analyst where I can leverag
 ## Projects
 - Malware Lab Project
 - SOC Lab Project
+-  <a href="https://github.com/DlPad23/Ethical-Hacking-Home-Lab)">Ethical Hacking Lab</a>
