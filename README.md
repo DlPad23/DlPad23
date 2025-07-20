@@ -12,8 +12,8 @@ Aspiring to secure a full-time role as a SOC or Risk Analyst where I can leverag
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SOC Lab        | <a href="https://google.com">SOC Lab</a>|
+|Ethical Hacking | <a href="https://google.com">Ethical Hacking Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
