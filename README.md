@@ -77,5 +77,5 @@ Aspiring to secure a full-time role as a SOC or Risk Analyst where I can leverag
 
 ## Projects
 - Malware Lab Project
-- <a href="https://github.com/DlPad23/SOC-Lab)">SOC Lab</a>
-- <a href="https://github.com/DlPad23/Ethical-Hacking-Home-Lab)">Ethical Hacking Lab</a>
+- <a href="https://github.com/DlPad23/SOC-Lab">SOC Lab</a>
+- <a href="https://github.com/DlPad23/Ethical-Hacking-Home-Lab">Ethical Hacking Lab</a>
