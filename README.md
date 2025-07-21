@@ -68,6 +68,8 @@ Aspiring to secure a full-time role as a SOC or Risk Analyst where I can leverag
 <img src="https://img.shields.io/badge/-Blue%20Team%20Jr%20Analyst-005f73?&style=for-the-badge&logo=security&logoColor=white" alt="Blue Team Jr Analyst Badge" />
 <img src="https://img.shields.io/badge/-AWS%20CCP-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS CCP Badge" />
 <img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-990000?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" alt="Certified Ethical Hacker Badge" />
+<img src="https://img.shields.io/badge/-Let's_Defend_SOC_Analyst-3E8E41?style=for-the-badge&logo=academia&logoColor=white" alt="Let's Defend SOC Analyst Badge" />
+
 
 
 
