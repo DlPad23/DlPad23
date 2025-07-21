@@ -1,7 +1,7 @@
 # Hello, I'm David
 <a href="https://linkedin.com/in/david-p-172823149"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cyber Security Analyst with 4+ years of experience identifying, analyzing, and remediating critical vulnerabilities in enterprise and cloud environments. Expertise in CVSS/CVE analysis, vulnerability scanning (Qualys, Nessus), risk management, and cross-team remediation efforts.  Adept in risk scoring, compliance alignment (HIPAA, SOC 2, DoD), executive reporting, and SOC operations including alert triage and incident response. While securing enterprise and cloud enviroments, I continue growth with hands on education via platforms like Hack the Box and Lets Defend to stay updated on the most up to date cyber landscape.
+Cyber Security Analyst with 4+ years of experience identifying, analyzing, and remediating critical vulnerabilities in enterprise and cloud environments. Expertise in CVSS/CVE analysis, vulnerability scanning (Qualys, Nessus), risk management, and cross-team remediation efforts.  Adept in risk scoring, compliance alignment (HIPAA, SOC 2, DoD), executive reporting, and SOC operations including alert triage and incident response. While securing enterprise and cloud enviroments, I continue growth with hands on education via platforms like Hack the Box, Tryhackme and Lets Defend to stay updated on the most up to date cyber landscape.
 
 ## Objective
 
@@ -13,7 +13,7 @@ Aspiring to secure a full-time role as a SOC or Risk Analyst where I can leverag
 |-----------------------------------------------|----------------------------|
 | SOC Lab        | <a href="https://github.com/DlPad23/SOC-Lab">SOC Lab</a>|
 |Ethical Hacking | <a href="https://github.com/DlPad23/Ethical-Hacking-Home-Lab">Ethical Hacking Lab</a>|
-| Hack The Box SOC|<a href="https://github.com/DlPad23/Hack-The-Box-SOC-Analyst">Hack-The-Box</a>|
+| TryHackMe | <a href="https://github.com/DlPad23/TryHackMe-SOC-Analyst">TryHackMe</a>|
 
 
 ## Tools
