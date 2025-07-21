@@ -13,7 +13,7 @@ Aspiring to secure a full-time role as a SOC or Risk Analyst where I can leverag
 |-----------------------------------------------|----------------------------|
 | SOC Lab        | <a href="https://github.com/DlPad23/SOC-Lab">SOC Lab</a>|
 |Ethical Hacking | <a href="https://github.com/DlPad23/Ethical-Hacking-Home-Lab">Ethical Hacking Lab</a>|
-| Hack The Box SOC|<a href="https://github.com/DlPad23/SOC-Lab">Hack-The-Box</a>|
+| Hack The Box SOC|<a href="https://github.com/DlPad23/Hack-The-Box-SOC-Analyst">Hack-The-Box</a>|
 
 
 ## Tools
