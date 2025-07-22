@@ -18,6 +18,13 @@ Aspiring to secure a full-time role as a SOC or Risk Analyst where I can leverag
 
 ## Tools
 
+### Risk Assessments
+<div>
+  
+</div>
+
+
+
 ### Network Tools
 <div>
 <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=Nmap&logoColor=white" alt="Nmap Badge" />
@@ -41,6 +48,15 @@ Aspiring to secure a full-time role as a SOC or Risk Analyst where I can leverag
 
 
 </div>
+
+### Reporting and Governance
+<div>
+
+  
+</div>
+
+
+
 
 
 ### Network
