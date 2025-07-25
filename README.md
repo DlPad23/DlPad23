@@ -1,12 +1,11 @@
 # Hello, I'm David
 <a href="https://linkedin.com/in/david-p-172823149"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cyber Security Analyst with 4+ years of experience identifying, analyzing, and remediating critical vulnerabilities in enterprise and cloud environments. Expertise in CVSS/CVE analysis, vulnerability scanning (Qualys, Nessus), risk management, and cross-team remediation efforts.  Adept in risk scoring, compliance alignment (HIPAA, SOC 2, DoD), executive reporting, and SOC operations including alert triage and incident response. While securing enterprise and cloud enviroments, I continue growth with hands on education via platforms like Hack the Box, Tryhackme and Lets Defend to stay updated on the most up to date cyber landscape.
+Information Security and Compliance professional with 4+ years of experience supporting risk management, policy enforcement, and regulatory compliance efforts in enterprise and cloud environments. Proven ability to align technical remediation with governance standards (HIPAA, SOC 2, DoD) and conduct detailed risk assessments and compliance tracking. Adept in vulnerability management, audit readiness, access control, and executive-level reporting. Strong communication and cross-team collaboration skills with a foundation in cybersecurity operations and military security experience.
 
 ## Objective
 
-Aspiring to secure a full-time role as a SOC or Risk Analyst where I can leverage my 4+ years of cybersecurity experience to strengthen threat detection, response, and risk mitigation efforts.
-
+Information Security and Compliance professional with 4+ years of experience in risk management, audit readiness, and regulatory compliance (HIPAA, SOC 2, DoD), seeking to transition into a GRC or Risk Management role. This portfolio showcases hands-on projects in risk assessments, control implementation, compliance tracking, and vulnerability exception documentation. I aim to bring a practical, governance-aligned approach to identifying and mitigating risk in modern cloud and enterprise environments.
 ## Skills
 
 | Skill                                         | Associated Project         |
