@@ -1,11 +1,11 @@
 # Hello, I'm David
 <a href="https://linkedin.com/in/david-p-172823149"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Information Security and Compliance professional with 4+ years of experience supporting risk management, policy enforcement, and regulatory compliance efforts in enterprise and cloud environments. Proven ability to align technical remediation with governance standards (HIPAA, SOC 2, DoD) and conduct detailed risk assessments and compliance tracking. Adept in vulnerability management, audit readiness, access control, and executive-level reporting. Strong communication and cross-team collaboration skills with a foundation in cybersecurity operations and military security experience.
+Information Security and Compliance professional with 4+ years of experience supporting risk management, policy enforcement, and regulatory compliance efforts in enterprise and cloud environments. Proven ability to align technical remediation with governance standards (NIST, ISO 27001, HIPAA, SOC 2, DoD) and conduct detailed risk assessments and compliance tracking. Adept in vulnerability management, audit readiness, access control, and executive-level reporting. Strong communication and cross-team collaboration skills with a foundation in cybersecurity operations and military security experience.
 
 ## Objective
 
-Information Security and Compliance professional with 4+ years of experience in risk management, audit readiness, and regulatory compliance (HIPAA, SOC 2, DoD), seeking to transition into a GRC or Risk Management role. This portfolio showcases hands-on projects in risk assessments, control implementation, compliance tracking, and vulnerability exception documentation. I aim to bring a practical, governance-aligned approach to identifying and mitigating risk in modern cloud and enterprise environments.
+Information Security and Compliance professional with 4+ years of experience in risk management, audit readiness, and regulatory compliance (NIST, ISO.HIPAA, SOC 2, DoD), seeking to transition into a GRC or Risk Management role. This portfolio showcases hands-on projects in risk assessments, control implementation, compliance tracking, and vulnerability exception documentation. I aim to bring a practical, governance-aligned approach to identifying and mitigating risk in modern cloud and enterprise environments.
 ## Skills
 
 | Skill                                         | Associated Project         |
