@@ -40,6 +40,13 @@ Information Security and Compliance professional with 4+ years of experience in 
   
 </div>
 
+### SIEM
+<div>
+<img src="https://img.shields.io/badge/-Wazuh-5A5C61?&style=for-the-badge&logo=Wazuh&logoColor=white" alt="Wazuh Badge" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
 
 
 ### Network Tools
