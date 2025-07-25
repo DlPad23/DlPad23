@@ -17,9 +17,25 @@ Information Security and Compliance professional with 4+ years of experience in 
 
 ## Tools
 
-### Risk Assessments
+### Compliance
+
 <div>
-  
+  <img src="https://img.shields.io/badge/-ISO_27001-3E8E41?style=for-the-badge&logo=security&logoColor=white" alt="ISO 27001 Compliance Badge" />
+  <img src="https://img.shields.io/badge/-NIST-3E8E41?style=for-the-badge&logo=security&logoColor=white" alt="NIST Compliance Badge" />
+  <img src="https://img.shields.io/badge/-HIPAA-3E8E41?style=for-the-badge&logo=security&logoColor=white" alt="HIPAA Compliance Badge" />
+  <img src="https://img.shields.io/badge/-SOC_2-3E8E41?style=for-the-badge&logo=security&logoColor=white" alt="SOC 2 Compliance Badge" />
+
+
+
+
+</div>
+
+
+
+###GRC Tools
+
+<div>
+  <img src="https://img.shields.io/badge/-Risk Manangement & Identification-3E8E41?style=for-the-badge&logo=security&logoColor=Red" alt="Risk Manangement & Identification Compliance Badge" />.
 </div>
 
 
@@ -35,24 +51,6 @@ Information Security and Compliance professional with 4+ years of experience in 
 
 </div>
 
-### Compliance
-
-<div>
-  <img src="https://img.shields.io/badge/-ISO_27001-3E8E41?style=for-the-badge&logo=security&logoColor=white" alt="ISO 27001 Compliance Badge" />
-  <img src="https://img.shields.io/badge/-NIST-3E8E41?style=for-the-badge&logo=security&logoColor=white" alt="NIST Compliance Badge" />
-  <img src="https://img.shields.io/badge/-HIPAA-3E8E41?style=for-the-badge&logo=security&logoColor=white" alt="HIPAA Compliance Badge" />
-  <img src="https://img.shields.io/badge/-SOC_2-3E8E41?style=for-the-badge&logo=security&logoColor=white" alt="SOC 2 Compliance Badge" />
-
-
-
-
-</div>
-
-### Reporting and Governance
-<div>
-
-  
-</div>
 
 
 
