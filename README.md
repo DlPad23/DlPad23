@@ -37,7 +37,7 @@ Information Security and Compliance professional with 4+ years of experience in 
 <div>
   <img src="https://img.shields.io/badge/-Risk Manangement & Identification-3E8E41?style=for-the-badge&logo=security&logoColor=Red" alt="Risk Manangement & Identification Compliance Badge" />.
   <img src="https://img.shields.io/badge/-Real Time Monitoring & Alerts-3E8E41?style=for-the-badge&logo=security&logoColor=white" alt="Real-Time Monitoring & Alerts Compliance Badge" />.
-  <img src="https://img.shields.io/badge/-IAM-000000?&style=for-the-badge&logo=IAM&logoColor=white" />
+   <img src="https://img.shields.io/badge/-IAM-1679A7?&style=for-the-badge&logo=IAM&logoColor=white" />
 
   
 </div>
