@@ -95,6 +95,8 @@ Information Security and Compliance professional with 4+ years of experience in 
 <img src="https://img.shields.io/badge/-AWS%20CCP-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS CCP Badge" />
 <img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-990000?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" alt="Certified Ethical Hacker Badge" />
 <img src="https://img.shields.io/badge/-Let's_Defend_SOC_Analyst-3E8E41?style=for-the-badge&logo=academia&logoColor=white" alt="Let's Defend SOC Analyst Badge" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)" />
+
 
 
 
