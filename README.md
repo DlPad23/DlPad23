@@ -100,6 +100,7 @@ Information Security and Compliance professional with 4+ years of experience in 
 
 
 ## Projects
+- NIST Cybersecurity Risk Assessment
 - Malware Lab Project
 - <a href="https://github.com/DlPad23/SOC-Lab">SOC Lab</a>
 - <a href="https://github.com/DlPad23/Ethical-Hacking-Home-Lab">Ethical Hacking Lab</a>
