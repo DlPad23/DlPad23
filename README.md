@@ -13,6 +13,7 @@ Information Security and Compliance professional with 4+ years of experience in 
 | SOC Lab        | <a href="https://github.com/DlPad23/SOC-Lab">SOC Lab</a>|
 |Ethical Hacking | <a href="https://github.com/DlPad23/Ethical-Hacking-Home-Lab">Ethical Hacking Lab</a>|
 | TryHackMe | <a href="https://github.com/DlPad23/TryHackMe-SOC-Analyst">TryHackMe</a>|
+| ISO/IEC 27001 Lead Auditor | <a href="">GRC Mastery</a>|
 
 
 ## Tools
