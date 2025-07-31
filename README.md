@@ -11,7 +11,7 @@ Information Security and Compliance professional with 4+ years of experience in 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC Lab        | <a href="https://github.com/DlPad23/SOC-Lab">SOC Lab</a>|
-|Ethical Hacking | <a href="https://github.com/DlPad23/Ethical-Hacking-Home-Lab">Ethical Hacking Lab</a>|
+|Third Part Risk Assessment | <a href="https://github.com/DlPad23/ThirdPartyRiskAssessment/tree/main">Third Party Risk Assessment</a>|
 | TryHackMe | <a href="https://github.com/DlPad23/TryHackMe-SOC-Analyst">TryHackMe</a>|
 | ISO/IEC 27001 Lead Auditor | <a href="https://github.com/DlPad23/GRC-Mastery/tree/main">GRC Mastery</a>|
 
@@ -106,6 +106,6 @@ Information Security and Compliance professional with 4+ years of experience in 
 
 ## Projects
 - <a href="https://github.com/DlPad23/GRC-Mastery/tree/main">GRC Mastery</a>
-- Malware Lab Project
+- <a href="https://github.com/DlPad23/ThirdPartyRiskAssessment/tree/main">Third Party Risk Assessment</a>
 - <a href="https://github.com/DlPad23/SOC-Lab">SOC Lab</a>
 - <a href="https://github.com/DlPad23/Ethical-Hacking-Home-Lab">Ethical Hacking Lab</a>
